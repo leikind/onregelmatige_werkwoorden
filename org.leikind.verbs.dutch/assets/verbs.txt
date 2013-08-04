@@ -1,0 +1,245 @@
+aandoen	deed aan	deden aan	aangedaan	1	put on, cause	anziehen, kleiden, ankleiden, herbeiführen, anrichten	metter (une jupe), allumer, infliger
+aankomen	kwam aan	kwamen aan	aangekomen	2	arrive	ankommen, aufhören	arriver
+afwassen	waste af	wasten af	afgewassen	1	do the dishes	spülen, abwaschen	laver
+bakken	bakte	bakten	gebakken	1	bake, fry	backen	cuire
+bannen	bande	banden	gebannen	1	ban, expel	beseitigen	chasser, expulser, bannir
+barsten	barstte	barstten	gebarsten	2	tear out, burst open	platzen, bersten, zerspringe	éclater, casser
+bederven	bedierf	bedierven	bedorven	1	spoil, damage	zerbrechen, beeinträchtigen, zerschlagen	gâcher, gâter
+bedriegen	bedroog	bedrogen	bedrogen	1	cheat, deceive	betrügen, verarschen, beschwindeln	tricher, tromper
+beginnen	begon	begonnen	begonnen	2	start, begin	beginnen, anfangen	commencer
+begraven	begroef	begroeven	begraven	1	bury	begraben, überwältigen, überladen, beerdigen	enterrer
+begrijpen	begreep	begrepen	begrepen	1	understand	begreifen, verstehen	comprendre
+behangen	behing	behingen	behangen	1	hang with wall paper	tapezieren	tapisser
+bekijken	bekeek	bekeken	bekeken	1	see, observe, watch	sehen, betrachten	regarger
+benijden	beneed	beneden	beneden	1	envy	beneiden	envier
+bergen	borg	borgen	geborgen	1	store, save	bergen, aufheben, bewahren	ranger, débarrasser, stocker, solder
+beschrijven	beschreef	beschreven	beschreven	1	describe	beschreiben	décrire
+besluiten	besloot	besloten	besloten	1	decide, conclude	entscheiden, bestimmen	décider, conclure
+bespreken	besprak	bespraken	besproken	1	discuss	besprechen	discuter
+bestaan	bestond	bestonden	bestaan	1	exist, be	bestehen, existieren	exister
+bevallen	beviel	bevielen	bevallen	2	give birth, love, enjoy	gefallen, verführen, bestechen	accoucher, plaire
+bevelen	beval	bevalen	bevolen	1	command, order, recommend	befehlen	ordonner, recommander
+bewegen	bewoog	bewogen	bewogen	1	move	bewegen	bouger, se mouvoir
+bewijzen	bewees	bewezen	bewezen	1	prove, demonstrate	beweisen	prouver
+bezoeken	bezocht	bezochten	bezocht	1	visit	besuchen	rendre visite à, visiter
+bezwijken	bezweek	bezweken	bezweken	2	succumb, collapse, decline	sterben, zugrunde gehen, entschlafen	s'écrouler, succomber
+bidden	bad	baden	gebeden	1	beg, plead, pray	beten, bitten	prier
+bieden	bood	boden	geboden	1	offer	bieten	offrir, faire une offre, donner
+bijten	beet	beten	gebeten	1	bite	beißen	mordre
+binden	bond	bonden	gebonden	1	bind	binden, ketten, aneinanderreihen	attacher, lier
+blazen	blies	bliezen	geblazen	1	blow	blasen, pfeifen, flöten	souffler
+blijken	bleek	bleken	gebleken	2	come true, be fulfilled	führen, erfolgen, erscheinen, eintreffen, erweisen	sembler, se montrer, s'avérer
+blijven	bleef	bleven	gebleven	2	continue, stay	bleiben	continuer, rester
+blinken	blonk	blonken	geblonken	1	glitter, glimmer	blinken	briller, luire, reluire
+braden	braadde	braadden	gebraden	1	roast, cook	braten	rôtir
+breken	brak	braken	gebroken	1	break	brechen	casser
+brengen	bracht	brachten	gebracht	1	bring	bringen	apporter
+brouwen	brouwde	brouwden	gebrouwen	1	brew	brauen, kochen, zubereiten	brasser
+buigen	boog	bogen	gebogen	1	bow, bend	beugen, biegen	courber, plier, s'incliner
+denken	dacht	dachten	gedacht	1	think	denken	penser
+dingen	dong	dongen	gedongen	1	negotiate, bargain	handeln, feilschen, unterhandeln	marchander
+doen	deed	deden	gedaan	1	do	tun	faire
+doorlopen	liep door	liepen door	doorgelopen	2	walk on, browse through, go on	weitergehen, durchlaufen	continuer sa route, durer, continuer, persister
+dragen	droeg	droegen	gedragen	1	wear	tragen	porter
+drijven	dreef	dreven	gedreven	1	drive, float	ziehen, schweben	flotter,  faire avancer
+dringen	drong	drongen	gedrongen	1	insist, push	dringen, schieben	pousser, passer
+drinken	dronk	dronken	gedronken	1	drink	trinken	boire
+druipen	droop	dropen	gedropen	1	drip	tropfen, tröpfeln	goutter, ruisseler
+duiken	dook	doken	gedoken	1	dive	tauchen, eintauchen	plonger
+dwingen	dwong	dwongen	gedwongen	1	force, compel	gebieten, pressen, erzwingen, forcieren	forcer
+eten	at	aten	gegeten	1	eat	essen	manger
+fluiten	floot	floten	gefloten	1	whistle	blasen, saugen	siffler
+gaan	ging	gingen	gegaan	2	go	gehen	aller
+gelden	gold	golden	gegolden	1	apply, count, weigh	gelten	valoir, être en vigueur, compter
+genezen	genas	genazen	genezen	3	heal	genesen	guérir
+genieten	genoot	genoten	genoten	1	enjoy	genießen, unterhalten, amüsieren	jouir, profiter de
+geven	gaf	gaven	gegeven	1	give	geben	donner
+gieten	goot	goten	gegoten	1	pour	stürzen, schütten, ausschütten, gießen, ausgießen	verser
+glijden	gleed	gleden	gegleden	1	slide, glide, slip	rutschen, gleiten, schlittern, ausgleiten, glitschen	glisser
+glimmen	glom	glommen	geglommen	1	shine, glitter, sparkle, gleam	glimmen, scheinen	luire
+graven	groef	groeven	gegraven	1	dig	graben	creuser
+grijpen	greep	grepen	gegrepen	1	grab, seize	greifen, begreifen	saisir
+hangen	hing	hingen	gehangen	1	hang	hängen,	pendre
+hebben	had	hadden	gehad	1	have	haben	avoir
+heffen	hief	hieven	geheven	1	lift, raise, charge	erheben, aufheben, anheben, hochziehen	soulever
+helpen	hielp	hielpen	geholpen	1	help	helfen	aider
+heten	heette	heetten	geheten	1	be called	heißen	s'appeler
+hijsen	hees	hesen	gehesen	1	hoist, lift	aufholen, aufbringen, aufziehen	hisser
+hoeven	hoefde	hoefden	gehoeven	1	need	brauchen, müssen	avoir besoin, être obligé
+houden	hield	hielden	gehouden	1	keep, preserve	behalten	garder, tenir
+houwen	houwde	houwden	gehouwen	1	cut down	kappen, fällen, hauen	couper, tailler, abattre (des arbres)
+inbreken	brak in	braken in	ingebroken	1	break in	einbrechen	cambrioler
+innemen	nam in	namen in	ingenomen	1	take medicine, take	einnehmen	prendre (des médicaments)
+jagen	joeg	joegen	gejaagd	1	hunt	jagen	chasser
+kiezen	koos	kozen	gekozen	1	choose	auswählen	choisir
+kijken	keek	keken	gekeken	1	look, see	schauen, kann sehen	regarder
+klimmen	klom	klommen	geklommen	3	climb	lettern, hinaufsteigen, besteigen, klettern	monter, grimper, escalader
+klinken	klonk	klonken	geklonken	1	sound	klingen, läuten, schlagen	résonner, retentir
+kluiven	kloof	kloven	gekloven	1	pick, peck, nibble	essen, speisen, verzehren	manger, goûter, consommer, bouffer
+knijpen	kneep	knepen	geknepen	1	stint, skimp, haggle	kneifen, zwacken, feilschen, knabbern	pincer
+komen	kwam	kwamen	gekomen	2	come	kommen	venir
+kopen	kocht	kochten	gekocht	1	buy	kaufen	acheter
+krijgen	kreeg	kregen	gekregen	1	get, receive	erhalten, bekommen, empfangen	obtenir, recevoir
+krimpen	kromp	krompen	gekrompen	2	shrink, decrease	schrumpfen	diminuer, rétrécir
+kruipen	kroop	kropen	gekropen	3	crawl	schleichen, kriechen	se traîner, ramper
+kunnen	kon	konden	gekund	1	can, be able	können	pouvoir, savoir faire qqch
+kwijten	kweet	kweten	gekweten	1	discharge	beilegen	s'acquitter de, accomplir son devoir
+lachen	lachte	lachten	gelachen	1	laugh	lachen	rire
+laden	laadde	laadden	geladen	1	load	laden, einladen, beladen	charger
+laten	liet	lieten	gelaten	1	allow, admit, grant	lassen	laisser, s'empêcher de
+lezen	las	lazen	gelezen	1	read	lesen	lire
+liegen	loog	logen	gelogen	1	lie	lügen	mentir
+liggen	lag	lagen	gelegen	1	lie, be situated	liegen	être couché, se trouver
+lijden	leed	leden	geleden	1	suffer	leiden	souffrir
+lijken	leek	leken	geleken	1	seem, look	belichten, scheinen, ähneln	paraître, ressembler à, sembler
+lopen	liep	liepen	gelopen	3	walk, run	laufen, gehen	marcher, courir
+malen	maalde	maalden	gemalen	1	grind	feinmahlen, zermahlen	moudre
+meegaan	ging mee	gingen mee	meegegaan	2	accompany, escort	mitgehen	accompagner, suivre
+meenemen	nam mee	namen mee	meegenomen	1	bring, take, fetch, collect, pick up	entfernen, abnehmen, entnehmen, aufholen, abräumen	emporter, emmener
+melken	molk	molken	gemolken	1	to milk	melken	traire
+meten	mat	maten	gemeten	1	measure	messen	mesurer
+mijden	meed	meden	gemeden	1	avoid	vermeiden	éviter
+moeten	moest	moesten	gemoeten	1	must, ought to, have to	müssen, sollen	devoir
+mogen	mocht	mochten	gemogen	1	may, be allowed to	dürfen, mögen	pouvoir, avoir la permission
+neerzijgen	zeeg neer	zegen neer	neergezegen	1	disintegrate	zerfallen	désintégrer
+nemen	nam	namen	genomen	1	take, seize	nehmen	prendre
+nijgen	neeg	negen	genegen	1	bow	verneigen, sich verneigen	s'incliner
+onderbreken	onderbrak	onderbraken	onderbroken	1	pause, interrupt	stören, unterbrechen	interrompre
+onderzoeken	onderzocht	onderzochten	onderzocht	1	investigate, research	untersuchen	étudier, faire de la recherche
+ontbijten	ontbeet	ontbeten	ontbeten	1	have breakfast	frühstücken	prendre le petit-déjeuner
+ontbreken	ontbrak	ontbraken	ontbroken	1	lack, be missing, be lacking	fehlen, versäumen	manquer
+ontginnen	ontgon	ontgonnen	ontgonnen	1	develop, reclaim, cultivate	erschließen, ausbeuten, urbarmachen	exploiter le sol, défricher, cultiver
+onthouden	onthield	onthielden	onthouden	1	record, remember, remind	enthalten, erwähnen, gedenken	retenir, se souvenir de, se rappeler
+ontluiken	ontlook	ontloken	ontloken	1	expose, open oneself up	entfalten, erblühen, aufblühen	s'épanouir, éclore
+ontstaan	ontstond	ontstonden	ontstaan	2	occur, create, arise	wachsen, entstehen, entspringen	naître, se créer, se former
+ontvangen	ontving	ontvingen	ontvangen	1	receive	empfangen, erhalten, bekommen	recevoir
+opstaan	stond op	stonden op	opgestaan	2	get up	aufstehen, aufgehen,	se lever
+optreden	trad op	traden op	opgetreden	1	proceed, operate, conduct	auftreten	(se) produire
+overlijden	overleed	overleden	overleden	2	die	sterben	mourir
+oversteken	stak over	staken over	overgestoken	2	cross over, traverse	überqueren, hinüberfahren, herüberfahren	traverser
+overvallen	overviel	overvielen	overvallen	1	assault, attack, rob	geschehen, zugestoßen, anfallen, angreifen	attaquer, braquer
+pluizen	ploos	plozen	geplozen	1	fluff, flake	fusseln	plucher, boulocher
+prijzen	prees	prezen	geprezen	1	praise, esteem	schätzen, loben, preisen	vanter, louer
+raden	raadde	raadden	geraden	1	suggest, advise	raten	deviner, conseiller
+rijden	reed	reden	gereden	3	drive, operate, ride	reiten, fahren	conduire, rouler
+rijgen	reeg	regen	geregen	1	tie, string, lace	schnüren, anreihen, aufreien	enfiler, faufiler
+rijten	reet	reten	gereten	1	tear, tear open, rip open	eißen, aufbrechen	déchirer, fêler
+rijzen	rees	rezen	gerezen	2	rise, grow, come up	steigen	s'élever
+roepen	riep	riepen	geroepen	1	call	rufen, schreien	appeler, crier
+ruiken	rook	roken	geroken	1	smell	stinken, riechen	sentir
+scheiden	scheidde	scheidden	gescheiden	2	divorce, separate	scheiden, trennen, splissen	divorcer, séparer
+schelden	schold	scholden	gescholden	1	swear	schimpfen, beschimpfen, schelten	jurer
+schenden	schond	schonden	geschonden	1	defile, desecrate	entwürdigen, entweihen, freveln, schänden	dégrader, transgresser
+schenken	schonk	schonken	geschonken	1	give, donate, grant	schenken	donner, offrir
+scheppen	shiep	schiepen	geschapen	1	create	schaffen	créer
+scheren	scheerde	scheerden	geschoren	1	shave	rasieren	raser
+schieten	schoot	schoten	geschoten	1	shoot	schießen, lösen, knallen	tirer
+schijnen	scheen	schenen	geschenen	1	shine	belichten, scheinen, ähneln, beleuchten	briller
+schijten	scheet	scheten	gescheten	1	shit	scheißen	chier
+schrijden	schreed	schreden	geschreden	3	to stride	schrijden	marcher
+schrijven	schreef	schreven	geschreven	1	write	schreiben	écrire
+schrikken	schrok	schrokken	geschrokken	2	be scared, be frightened	fürchten, erschrecken	s'effrayer, avoir peur
+schuilen	school	scholen	gescholen	1	shelter, refuge, hide	sich verstecken, zuflücten	se cacher
+schuiven	schoof	schoven	geschoven	3	push, shove	schieben, weiterschieben	pousser, faire glisser
+slaan	sloeg	sloegen	geslagen	1	bang, strike, hit	schlagen, hauen, rammen, hämmern, dreschen, verkloppen	battre, frapper
+slapen	sliep	sliepen	geslapen	1	sleep	schlafen	dormir
+slijpen	sleep	slepen	geslepen	1	grind, strop, sharpen	schärfen, schleifen	aiguiser,  polir
+slijten	sleet	sleten	gesleten	1	pass, spend, wear out	ausgeben, spendieren, auftragen, abtragen	s'user, passer
+slinken	slonk	slonken	geslonken	1	lessen, reduce, decrease	beschränken, einschränken, kürzen	fondre, diminuer
+sluipen	sloop	slopen	geslopen	1	sneak	schleichen, kriechen, schlüpfen	se glisser, avancer à pas feutrés
+sluiten	sloot	sloten	gesloten	1	close	schließen, sperren	fermer, conclure
+smelten	smolt	smolten	gesmolten	3	melt	tauen, auftauen	fondre
+smijten	smeet	smeten	gesmeten	1	cast, throw	schmeißen, schleudern, werfen	flanquer, lancer
+snijden	sneed	sneden	gesneden	1	cut	schneiden, abschneiden	couper
+snuiten	snoot	snoten	gesnoten	1	blow one's nose	schneuzen, Nase schnauben	se moucher
+snuiven	snoof	snoven	gesnoven	1	sniff, snort	die Nase rümpfen, schnupfen, schnaufen	renifler, snifer
+spannen	spande	spanden	gespannen	1	stretch, tighten	spannen, beziehen, strecken, dehnen,	tendre (une corde), s'efforcer
+spijten	speet		gespeten	1	regret, be sorry	beklagen, bedauern, leid tun	regretter, être désolé
+spinnen	spon	sponnen	gesponnen	1	spin, purr	spinnen	filer
+splijten	spleet	spleten	gespleten	1	split, crack, chop, cleave	splissen, zerhacken, spleißen	diviser, se fendre, fendre
+spreken	sprak	spraken	gesproken	1	talk, speak	sprechen	parler
+springen	sprong	sprongen	gesprongen	3	jump	springen	sauter
+spruiten	sproot	sproten	gesproten	1	sprout from, derive from, originate from	stammen, sprießen, ausschießen	descendre de, venir de
+spuiten	spoot	spoten	gespoten	1	spout, spurt	spritzen, ausblasen, ausspritzen	faire jaillir, se piquer
+staan	stond	stonden	gestaan	1	stand	stehen	être debout, se trouver, être
+steken	stak	staken	gestoken	1	cut, sting, prick	stecken, verletzen, strecken, spritzen, stechen, sticheln	blesser, piquer
+stelen	stal	stalen	gestolen	1	steal	stehlen	voler
+sterven	stierf	stierven	gestorven	2	die	sterben	mourir
+stijgen	steeg	stegen	gestegen	2	increase, extend, expand	steigen, aufstehen	monter, augmenter
+stijven	steef	steven	gesteven	1	stiffen, starch	stärken, versteifen	raidir, roidir
+stinken	stonk	stonken	gestonken	1	stink	stinken	puer, empester
+stoten	stootte	stootten	gestoten	1	thump, bump	schieben, stoßen	heurter, cogner
+strijden	streed	streden	gestreden	1	struggle, fight	streiten, kämpfen, fechten	lutter, combattre
+strijken	streek	streken	gestreken	1	to iron	bügeln, glätten, ausbügeln	repasser
+stuiven	stoof	stoven	gestoven	1	spurt, to dust, rush, gush	stäuben	gicler, poudroyer, soulever la poussière
+treden	trad	traden	getreden	3	move, walk, move on	beitreten, treten	marcher, avancer, se mouvoir
+treffen	trof	troffen	getroffen	1	meet, assemble, affect, move, ...	sich treffen, begegnen, entgegen, ansprechen	rencontrer, toucher, émouvoir, frapper
+trekken	trok	trokken	getrokken	1	pull, drag along, travel, hike, travel about	ziehen, reisen	tirer, traverser, parcourir, voyager
+uitdoen	deed uit	deden uit	uitgedaan	1	take off	ausziehen, ausmachen, absetzen, auskleiden	retirer, enlever
+uitgaan	ging uit	gingen uit	uitgegaan	2	go out	ausgehen, steigen, schreiten	sortir
+uitsteken	stak uit	staken uit	uitgestoken	1	show off, stand out, stick out	auffallen, überragen, sich auszeichnen	briller, exceller, se faire valoir, se pavaner
+vallen	viel	vielen	gevallen	2	fall	fallen	tomber
+vangen	ving	vingen	gevangen	1	catch, trap, seize	fangen, erfassen, kriegen, greifen, erwischen	attraper, saisir, prendre
+varen	voer	voeren	gevaren	3	sail	segeln, steuern, befahren	aller en bateau, naviguer
+vechten	vocht	vochten	gevochten	1	fight	fechten, kämpfen, streiten	se battre
+verbergen	verborg	verborgen	verborgen	1	hide	verbergen, verstecken	cacher
+verbieden	verbood	verboden	verboden	1	prohibit, ban	verbieten	interdire
+verdrieten	verdroot	verdroten	verdroten	1	grieve	trauern	être en deuil, être triste
+verdrinken	verdronk	verdronken	verdronken	2	drown	ertrinken	se noyer
+verdwijnen	verdween	verdwenen	verdwenen	2	disappear	verschwinden	disparaître
+vergelijken	vergeleek	vergeleken	vergeleken	1	compare	vergleichen	comparer
+vergeten	vergat	vergaten	vergeten	3	forget	vergessen	oublier
+verkopen	verkocht	verkochten	verkocht	1	sell	verkaufen	vendre
+verlaten	verliet	verlieten	verlaten	1	leave, abandon	ausscheiden, weggehen	quitter, abandonner
+verliezen	verloor	verloren	verloren	1	lose	verlieren, vermissen	perdre
+vermijden	vermeed	vermeden	vermeden	1	avoid	vermeiden	éviter
+verraden	verried	verrieden	verraden	1	betray	verraten	trahir, dénoncer
+verslinden	verslond	verslonden	verslond	1	swallow up, consume	fressen, auffressen, hinunterschlingen	dévorer
+verstaan	verstond	verstonden	verstaan	1	understand	verstehen	comprendre
+vertrekken	vertrok	vertrokken	vertrokken	2	leave, depart	ausscheiden, weggehen	partir
+vervangen	verving	vervingen	vervangen	1	replace, swap	vertreten, ersetzen, einfallen	remplacer
+verzinnen	verzon	verzonnen	verzonnen	1	make plans, invent, make up	planen, sinnen, nachdenken, nachsinnen über	imaginer
+vinden	vond	vonden	gevonden	1	find	finden	trouver
+vlechten	vlocht	vlochten	gevlochten	1	braid, twine, plait	flechten, einflechten, schlingen	tresser, natter
+vliegen	vloog	vlogen	gevlogen	3	fly	fliegen	voler
+vouwen	vouwde	vouwden	gevouwen	1	fold	falten, falzen	plier
+vragen	vroeg	vroegen	gevraagd	1	ask	fragen	demander
+vreten	vrat	vraten	gevreten	1	eat, cram, chow	fressen	dévorer, (se) goinfrer
+vriezen	vroor	vroren	gevroren	3	freeze	frieren	geler
+vrijen	vree	vreeën	gevreeën	1	make love	Liebe machen, ficken	faire l'amour
+vrijen	vrijde	vrijden	gevrijd	1	make love	Liebe machen, ficken	faire l'amour
+wassen	waste	wasten	gewassen	1	wash	waschen	laver
+wegen	woog	wogen	gewogen	1	weigh	wiegen	peser
+werpen	wierp	wierpen	geworpen	1	throw	werfen	jeter
+werven	wierf	wierven	geworven	1	recruit	werben, rekrutieren	recruter, engager
+weten	wist	wisten	geweten	1	know	wissen	savoir
+weven	weefde	weefden	geweven	1	weave	weben	tisser
+wijken	week	weken	geweken	2	budge, lose ground	weichen, fliehen	céder, reculer, s'écarter de la ligne droite
+wijten	weet	weten	geweten	1	blame on	verdanken	attribuer, imputer
+wijzen	wees	wezen	gewezen	1	define, show, indicate	zeigen, andeuten, hinweisen	indiquer, montrer
+willen	wou, wilde	wilden	gewild	1	want, need	sollen, wollen	vouloir, souhaiter
+winden	wond	wonden	gewonden	1	to wind, to wind up	aufdrehen, aufrollen	enrouler
+winnen	won	wonnen	gewonnen	1	gain, win	gewinnen	gagner
+worden	werd	werden	geworden	2	become	werden	devenir
+wreken	wreekte	wreekten	gewroken	1	repay	vergelten	venger
+wrijven	wreef	wreven	gewreven	1	strike, polish, smudge	polieren, aufputzen	frotter
+wringen	wrong	wrongen	gewrongen	1	wrench, wring out	wringen	tordre, serrer, essorer
+zeggen	zei	zeiden	gezegd	1	say	sagen	dire
+zenden	zond	zonden	gezonden	1	send	schicken, senden	envoyer
+zien	zag	zagen	gezien	1	see	sehen, schauen, betrachten	voir
+zijn	was	waren	geweest	2	be	sein	être
+zingen	zong	zongen	gezongen	1	sing	singen	chanter
+zinken	zonk	zonken	gezonken	2	sink	sinken, versinken, vergehen, senken	sombrer, couler
+zinnen	zon	zonnen	gezonnen	1	make plans	planen, sinnen, nachdenken	mettre les plans
+zitten	zat	zaten	gezeten	1	sit	sitzen	être assis
+zoeken	zocht	zochten	gezocht	1	look for, search	suchen	chercher, regarder
+zouten	zoutte	zoutten	gezoutten	1	to salt	salzen	saler
+zuigen	zoog	zogen	gezogen	1	suck, blow	blasen, saugen, lutschen, schlucken	sucer, aspirer
+zuipen	zoop	zopen	gezopen	1	booze, drink excessively	saufen, sich besaufen	picoler, biberonner
+zullen	zou	zouden		1	shall, ought to	werden	verbe auxiliaire pour la traduction du futur et du conditionnel
+zwelgen	zwolg	zwolgen	gezwolgen	1	gulp down, gormandize, gobble, guzzle	schwelgen	engloutir, absorber, s'empiffrer
+zwellen	zwol	zwollen	gezwollen	2	swell	schwellen	se gonfler, s'enfler
+zwemmen	zwom	zwommen	gezwommen	3	swim	schwimmen	nager
+zweren	zwoer	zwoeren	gezworen	1	swear	schwören	jurer
+zwerven	zwierf	zwierven	gezworven	1	travel, hike, travel about, wander	wandern	être nomade
+zwijgen	zweeg	zwegen	gezwegen	1	be silent	schweigen	se taire

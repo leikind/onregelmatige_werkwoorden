@@ -1,0 +1,13 @@
+Onregelmatige Werkwoorden is a simple searchable list of Dutch irregular verbs. For each verb its four forms (infinitive, past singular, past plural, past participle) and an auxiliary verb are shown. If the language of the device is English, French, or German, short translations are shown for each verb.
+
+Onregelmatige Werkwoorden est une liste des verbes irréguliers néérlandais, dans laquelle on peut effectuer des recherches. Pour chaque verbe, ses quatre formes (infinitif, imparfait singulier, imparfait pluriel, participe passé) et un auxiliaire sont affichés.  Les traductions  sont disponibles si le language de votre appareil est l'anglais, le français ou l'allemand.
+
+"Onregelmatige werkwoorden" ist eine einfache Liste niederländischer unregelmäßiger Verben, die durchsucht werden kann. Für jedes Verb werden vier Formen (Infinitiv, Präteritum Singular, Präteritum Plural, Partizip Perfekt) und das entsprechende Hilfsverb angezeigt. Kurze Übersetzungen der Verben in der Sprache des benutzten Geräts werden ebenfalls angezeigt, wenn diese Englisch, Französisch oder Deutsch ist.
+
+Deze applicatie is een lijst van onregelmatige werkwoorden van de Nederlandse taal die op een handige manier doorzocht kan worden. Voor elk werkwoord worden er vier vormen (infinitief, imperfectum enkelvoud, imperfectum meervoud, en perfectum) en het hulpwerkwoord getoond. Als de taal van het toestel Engels, Frans of Duits is, worden korte vertalingen in deze taal gegeven.
+
+
+v.t.t. = voltooid tegenwoordige tijd = perfectum
+o.v.t. = Onvoltooid verleden tijd = imperfectum
+
+Onregelmatige Werkwoorden  - это список неправильных глаголов нидерландского языка. Для каждого глагола даны его четыре формы (инфинитив, имперфект единственного числа, имперфект множественного числа) и вспомогательный глагол. Если текущий язык устройства - английский, французский или немецкий, для каждого глагола показывается его перевод на этот язык.

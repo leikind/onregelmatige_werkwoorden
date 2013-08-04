@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Onregelmatige Werkwoorden</string>
+    <string name="empty">Aucun verbe irrégulier n\'a été trouvé.\nSoit ce verbe est régulier,\nsoit il n\'existe pas...</string>
+    <string name="about">A propos...</string>
+    <string name="enter_verb_form">Entrez un verbe</string>
+    <string name="details">Détails</string>
+    <string name="about_message">Onregelmatige Werkwoorden vous permet de rapidement trouver les verbes irréguliers en néerlandais.
+\n\nVersion: %1$s
+\n\nAuteur: Yuri Leikind
+\n\nEmail: yuri.leikind@gmail.com</string>
+    <string name="ok">Ok</string>
+    <string name="infinitive">Infinitif:</string>
+    <string name="past_singular">Imparfait\nsingulier: </string>
+    <string name="past_plural">Imparfait\npluriel: </string>
+    <string name="past_participle">Participe\npassé: </string>
+    <string name="copied">copié</string>
+    <string name="Copy">Copier</string>
+    <string name="Copied">Copié</string>
+    <string name="copy_all_forms_to_clipboard">Copier</string>
+    <string name="wiktionary_lookup">Recherche Wiktionary</string>
+    <string name="try_wiktionary">Recherche Wiktionary</string>
+</resources>
+

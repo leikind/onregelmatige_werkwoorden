@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="past_singular">Imperfekt Singular: </string>
+    <string name="past_plural">Imperfekt Plural: </string>
+    <string name="past_participle">Partizip Perfekt: </string>
+</resources>
+

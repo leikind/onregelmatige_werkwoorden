@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="past_singular">Imparfait singulier: </string>
+    <string name="past_plural">Imparfait pluriel: </string>
+    <string name="past_participle">Participe passé: </string>
+</resources>
+

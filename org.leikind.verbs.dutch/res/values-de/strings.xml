@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Onregelmatige Werkwoorden</string>
+    <string name="empty">Unregelmäßiges Verb nicht gefunden.\nEntweder dieses Verb existiert nicht\noder es handelt sich um ein regelmäßiges Verb...</string>
+    <string name="about">Info</string>
+    <string name="enter_verb_form">Geben Sie eine Verbform ein</string>
+    <string name="details">Details</string>
+    <string name="about_message">Onregelmatige Werkwoorden  ermöglicht es, schnell Formen unregelmäßiger niederländischer Verben nachzuschlagen.
+\n\nVersion: %1$s
+\n\nAutor: Yuri Leikind
+\n\nEmail: yuri.leikind@gmail.com</string>
+    <string name="ok">Ok</string>
+    <string name="infinitive">Infinitiv:</string>
+    <string name="past_singular">Imperfekt\nSingular: </string>
+    <string name="past_plural">Imperfekt\nPlural: </string>
+    <string name="past_participle">Partizip\nPerfekt: </string>
+    <string name="copied">kopiert</string>
+    <string name="Copy">Kopieren: </string>
+    <string name="Copied">Kopiert</string>
+    <string name="copy_all_forms_to_clipboard">In die Zwischenablage kopieren</string>
+    <string name="wiktionary_lookup">Wiktionary durchsuchen</string>
+    <string name="try_wiktionary">Suche in Wiktionary probieren</string>
+</resources>
+

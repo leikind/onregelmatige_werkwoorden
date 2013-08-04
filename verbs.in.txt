@@ -1,0 +1,245 @@
+aandoen	deed aan	deden aan	aangedaan	hebben
+aankomen	kwam aan	kwamen aan	aangekomen	zijn
+afwassen	waste af	wasten af	afgewassen	hebben
+bakken	bakte	bakten	gebakken	hebben
+bannen	bande	banden	gebannen
+barsten	barstte	barstten	gebarsten	zijn
+bederven	bedierf	bedierven	bedorven
+bedriegen	bedroog	bedrogen	bedrogen
+beginnen	begon	begonnen	begonnen	zijn
+begraven	begroef	begroeven	begraven	hebben
+begrijpen	begreep	begrepen	begrepen	hebben
+behangen	behing	behingen	behangen	hebben
+bekijken	bekeek	bekeken	bekeken	hebben
+benijden	beneed	beneden	beneden
+bergen	borg	borgen	geborgen
+beschrijven	beschreef	beschreven	beschreven	hebben
+besluiten	besloot	besloten	besloten	hebben
+bespreken	besprak	bespraken	besproken	hebben
+bestaan	bestond	bestonden	bestaan	hebben
+bevallen	beviel	bevielen	bevallen	zijn
+bevelen	beval	bevalen	bevolen
+bewegen	bewoog	bewogen	bewogen	hebben
+bewijzen	bewees	bewezen	bewezen	hebben
+bezoeken	bezocht	bezochten	bezocht	hebben
+bezwijken	bezweek	bezweken	bezweken	zijn
+bidden	bad	baden	gebeden	hebben
+bieden	bood	boden	geboden	hebben
+bijten	beet	beten	gebeten	hebben
+binden	bond	bonden	gebonden	hebben
+blazen	blies	bliezen	geblazen	hebben
+blijken	bleek	bleken	gebleken	zijn
+blijven	bleef	bleven	gebleven	zijn
+blinken	blonk	blonken	geblonken
+braden	braadde	braadden	gebraden
+breken	brak	braken	gebroken	hebben
+brengen	bracht	brachten	gebracht	hebben
+brouwen	brouwde	brouwden	gebrouwen
+buigen	boog	bogen	gebogen	hebben
+denken	dacht	dachten	gedacht	hebben
+dingen	dong	dongen	gedongen
+doen	deed	deden	gedaan	hebben
+doorlopen	liep door	liepen door	doorgelopen	zijn
+dragen	droeg	droegen	gedragen	hebben
+drijven	dreef	dreven	gedreven
+dringen	drong	drongen	gedrongen
+drinken	dronk	dronken	gedronken	hebben
+druipen	droop	dropen	gedropen
+duiken	dook	doken	gedoken	hebben
+dwingen	dwong	dwongen	gedwongen	hebben
+eten	at	aten	gegeten	hebben
+fluiten	floot	floten	gefloten	hebben
+gaan	ging	gingen	gegaan	zijn
+gelden	gold	golden	gegolden
+genezen	genas	genazen	genezen	hebben/zijn
+genieten	genoot	genoten	genoten	hebben
+geven	gaf	gaven	gegeven	hebben
+gieten	goot	goten	gegoten	hebben
+glijden	gleed	gleden	gegleden
+glimmen	glom	glommen	geglommen
+graven	groef	groeven	gegraven
+grijpen	greep	grepen	gegrepen	hebben
+hangen	hing	hingen	gehangen	hebben
+hebben	had	hadden	gehad	hebben
+heffen	hief	hieven	geheven
+helpen	hielp	hielpen	geholpen	hebben
+heten	heette	heetten	geheten	hebben
+hijsen	hees	hesen	gehesen
+hoeven	hoefde	hoefden	gehoeven
+houden	hield	hielden	gehouden	hebben
+houwen	houwde	houwden	gehouwen
+inbreken	brak in	braken in	ingebroken	hebben
+innemen	nam in	namen in	ingenomen	hebben
+jagen	joeg	joegen	gejaagd
+kiezen	koos	kozen	gekozen	hebben
+kijken	keek	keken	gekeken	hebben
+klimmen	klom	klommen	geklommen	hebben/zijn
+klinken	klonk	klonken	geklonken	hebben
+kluiven	kloof	kloven	gekloven
+knijpen	kneep	knepen	geknepen
+komen	kwam	kwamen	gekomen	zijn
+kopen	kocht	kochten	gekocht	hebben
+krijgen	kreeg	kregen	gekregen	hebben
+krimpen	kromp	krompen	gekrompen	zijn
+kruipen	kroop	kropen	gekropen	hebben/zijn
+kunnen	kon	konden	gekund	hebben
+kwijten	kweet	kweten	gekweten
+lachen	lachte	lachten	gelachen	hebben
+laden	laadde	laadden	geladen
+laten	liet	lieten	gelaten	hebben
+lezen	las	lazen	gelezen	hebben
+liegen	loog	logen	gelogen	hebben
+liggen	lag	lagen	gelegen	hebben
+lijden	leed	leden	geleden	hebben
+lijken	leek	leken	geleken	hebben
+lopen	liep	liepen	gelopen	hebben/zijn
+malen	maalde	maalden	gemalen
+meegaan	ging mee	gingen mee	meegegaan	zijn
+meenemen	nam mee	namen mee	meegenomen	hebben
+melken	molk	molken	gemolken
+meten	mat	maten	gemeten
+mijden	meed	meden	gemeden
+moeten	moest	moesten	gemoeten	hebben
+mogen	mocht	mochten	gemogen	hebben
+neerzijgen	zeeg neer	zegen neer	neergezegen
+nemen	nam	namen	genomen	hebben
+nijgen	neeg	negen	genegen
+onderbreken	onderbrak	onderbraken	onderbroken	hebben
+onderzoeken	onderzocht	onderzochten	onderzocht	hebben
+ontbijten	ontbeet	ontbeten	ontbeten	hebben
+ontbreken	ontbrak	ontbraken	ontbroken	hebben
+ontginnen	ontgon	ontgonnen	ontgonnen
+onthouden	onthield	onthielden	onthouden	hebben
+ontluiken	ontlook	ontloken	ontloken
+ontstaan	ontstond	ontstonden	ontstaan	zijn
+ontvangen	ontving	ontvingen	ontvangen	hebben
+opstaan	stond op	stonden op	opgestaan	zijn
+optreden	trad op	traden op	opgetreden	hebben
+overlijden	overleed	overleden	overleden	zijn
+oversteken	stak over	staken over	overgestoken	zijn
+overvallen	overviel	overvielen	overvallen	hebben
+pluizen	ploos	plozen	geplozen
+prijzen	prees	prezen	geprezen
+raden	raadde	raadden	geraden	hebben
+rijden	reed	reden	gereden	hebben/zijn
+rijgen	reeg	regen	geregen
+rijten	reet	reten	gereten
+rijzen	rees	rezen	gerezen	zijn
+roepen	riep	riepen	geroepen	hebben
+ruiken	rook	roken	geroken	hebben
+scheiden	scheidde	scheidden	gescheiden	zijn
+schelden	schold	scholden	gescholden
+schenden	schond	schonden	geschonden
+schenken	schonk	schonken	geschonken	hebben
+scheppen	shiep	schiepen	geschapen
+scheren	scheerde	scheerden	geschoren	hebben
+schieten	schoot	schoten	geschoten	hebben
+schijnen	scheen	schenen	geschenen	hebben
+schijten	scheet	scheten	gescheten
+schrijden	schreed	schreden	geschreden	hebben/zijn
+schrijven	schreef	schreven	geschreven	hebben
+schrikken	schrok	schrokken	geschrokken	zijn
+schuilen	school	scholen	gescholen
+schuiven	schoof	schoven	geschoven	hebben/zijn
+slaan	sloeg	sloegen	geslagen	hebben
+slapen	sliep	sliepen	geslapen	hebben
+slijpen	sleep	slepen	geslepen
+slijten	sleet	sleten	gesleten
+slinken	slonk	slonken	geslonken
+sluipen	sloop	slopen	geslopen
+sluiten	sloot	sloten	gesloten	hebben
+smelten	smolt	smolten	gesmolten	hebben/zijn
+smijten	smeet	smeten	gesmeten
+snijden	sneed	sneden	gesneden	hebben
+snuiten	snoot	snoten	gesnoten
+snuiven	snoof	snoven	gesnoven
+spannen	spande	spanden	gespannen
+spijten	speet	_	gespeten	hebben
+spinnen	spon	sponnen	gesponnen
+splijten	spleet	spleten	gespleten
+spreken	sprak	spraken	gesproken	hebben
+springen	sprong	sprongen	gesprongen	hebben/zijn
+spruiten	sproot	sproten	gesproten
+spuiten	spoot	spoten	gespoten
+staan	stond	stonden	gestaan	hebben
+steken	stak	staken	gestoken	hebben
+stelen	stal	stalen	gestolen	hebben
+sterven	stierf	stierven	gestorven	zijn
+stijgen	steeg	stegen	gestegen	zijn
+stijven	steef	steven	gesteven
+stinken	stonk	stonken	gestonken	hebben
+stoten	stootte	stootten	gestoten
+strijden	streed	streden	gestreden
+strijken	streek	streken	gestreken	hebben
+stuiven	stoof	stoven	gestoven
+treden	trad	traden	getreden	hebben/zijn
+treffen	trof	troffen	getroffen	hebben
+trekken	trok	trokken	getrokken	hebben
+uitdoen	deed uit	deden uit	uitgedaan	hebben
+uitgaan	ging uit	gingen uit	uitgegaan	zijn
+uitsteken	stak uit	staken uit	uitgestoken	hebben
+vallen	viel	vielen	gevallen	zijn
+vangen	ving	vingen	gevangen	hebben
+varen	voer	voeren	gevaren	hebben/zijn
+vechten	vocht	vochten	gevochten	hebben
+verbergen	verborg	verborgen	verborgen	hebben
+verbieden	verbood	verboden	verboden	hebben
+verdrieten	verdroot	verdroten	verdroten
+verdrinken	verdronk	verdronken	verdronken	zijn
+verdwijnen	verdween	verdwenen	verdwenen	zijn
+vergelijken	vergeleek	vergeleken	vergeleken	hebben
+vergeten	vergat	vergaten	vergeten	hebben/zijn
+verkopen	verkocht	verkochten	verkocht	hebben
+verlaten	verliet	verlieten	verlaten	hebben
+verliezen	verloor	verloren	verloren	hebben
+vermijden	vermeed	vermeden	vermeden
+verraden	verried	verrieden	verraden
+verslinden	verslond	verslonden	verslond	hebben
+verstaan	verstond	verstonden	verstaan	hebben
+vertrekken	vertrok	vertrokken	vertrokken	zijn
+vervangen	verving	vervingen	vervangen	hebben
+verzinnen	verzon	verzonnen	verzonnen	hebben
+vinden	vond	vonden	gevonden	hebben
+vlechten	vlocht	vlochten	gevlochten
+vliegen	vloog	vlogen	gevlogen	hebben/zijn
+vouwen	vouwde	vouwden	gevouwen
+vragen	vroeg	vroegen	gevraagd	hebben
+vreten	vrat	vraten	gevreten
+vriezen	vroor	vroren	gevroren	hebben/zijn
+vrijen	vree	vreeën	gevreeën
+vrijen	vrijde	vrijden	gevrijd
+wassen	waste	wasten	gewassen	hebben
+wegen	woog	wogen	gewogen	hebben
+werpen	wierp	wierpen	geworpen
+werven	wierf	wierven	geworven	hebben
+weten	wist	wisten	geweten	hebben
+weven	weefde	weefden	geweven
+wijken	week	weken	geweken	zijn
+wijten	weet	weten	geweten
+wijzen	wees	wezen	gewezen	hebben
+willen	wou, wilde	wilden	gewild	hebben
+winden	wond	wonden	gewonden
+winnen	won	wonnen	gewonnen	hebben
+worden	werd	werden	geworden	zijn
+wreken	wreekte	wreekten	gewroken	hebben
+wrijven	wreef	wreven	gewreven
+wringen	wrong	wrongen	gewrongen
+zeggen	zei	zeiden	gezegd	hebben
+zenden	zond	zonden	gezonden	hebben
+zien	zag	zagen	gezien	hebben
+zijn	was	waren	geweest	zijn
+zingen	zong	zongen	gezongen	hebben
+zinken	zonk	zonken	gezonken	zijn
+zinnen	zon	zonnen	gezonnen
+zitten	zat	zaten	gezeten	hebben
+zoeken	zocht	zochten	gezocht	hebben
+zouten	zoutte	zoutten	gezoutten	hebben
+zuigen	zoog	zogen	gezogen
+zuipen	zoop	zopen	gezopen
+zullen	zou	zouden	_
+zwelgen	zwolg	zwolgen	gezwolgen
+zwellen	zwol	zwollen	gezwollen	zijn
+zwemmen	zwom	zwommen	gezwommen	hebben/zijn
+zweren	zwoer	zwoeren	gezworen
+zwerven	zwierf	zwierven	gezworven
+zwijgen	zweeg	zwegen	gezwegen	hebben

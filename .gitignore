@@ -1,0 +1,6 @@
+.DS_Store
+org.leikind.verbs.dutch/gen/*
+org.leikind.verbs.dutch/out/*
+org.leikind.verbs.dutch/bin/*
+.bundle/config
+org.leikind.verbs.dutch/.idea

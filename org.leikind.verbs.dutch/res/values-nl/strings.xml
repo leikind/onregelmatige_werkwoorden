@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Onregelmatige Werkwoorden</string>
+    <string name="empty">Geen werkwoord gevonden.\nOfwel geen zo\'n werkwoord bestaat,\nofwel die een regelmatige werkwoord is...</string>
+    <string name="about">Info</string>
+    <string name="enter_verb_form">Vul een werkwoord in</string>
+    <string name="details">Meer</string>
+    <string name="about_message">Onregelmatige Werkwoorden laat vormen van onregelmatige Nederlandse werkwoorden op te zoeken.
+\n\nVersië: %1$s
+\n\nOntwikkelaar: Yuri Leikind
+\n\nEmail: yuri.leikind@gmail.com</string>
+    <string name="ok">Ok</string>
+    <string name="infinitive">Infinitief:</string>
+    <string name="past_singular">O.V.T.\nenkelvoud: </string>
+    <string name="past_plural">O.V.T.\nmeervoud: </string>
+    <string name="past_participle">V.T.T.: </string>
+    <string name="copied">gekopieerd</string>
+    <string name="Copy">Kopiëren: </string>
+    <string name="Copied">Gekopieerd</string>
+    <string name="copy_all_forms_to_clipboard">Naar het klembord kopiëren</string>
+    <string name="wiktionary_lookup">Wiktionary opzoeken</string>
+    <string name="try_wiktionary">Probeer Wiktionary op te zoeken</string>
+</resources>
+

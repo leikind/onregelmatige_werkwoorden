@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:paddingTop="0dip"
+  android:paddingBottom="15dip"
+  android:paddingLeft="15dip"
+  android:paddingRight="15dip"
+>
+
+    <LinearLayout   android:id="@android:id/list"
+      android:orientation="vertical"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_gravity="center_horizontal">
+
+
+
+    <TextView android:id="@+id/translation"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:gravity="left"
+      android:textAppearance="@style/Translation"
+      android:paddingBottom="10dip"
+    />
+
+
+
+  <TableLayout android:id="@+id/detailed"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  >
+
+
+
+    <TableRow android:id="@+id/row1"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:paddingBottom="5dip"
+    >
+
+      <TextView android:id="@+id/infinitive_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="@string/infinitive"
+        android:textAppearance="@style/Labels"
+        android:paddingRight="5dip"
+      />
+
+      <TextView android:id="@+id/infinitive"
+        android:layout_width="wrap_content"
+        android:gravity="left"
+        android:paddingLeft="5dip"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/DialogLike"
+      />
+    </TableRow>
+
+
+    <TableRow android:id="@+id/row2"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:paddingBottom="5dip"
+    >
+
+      <TextView android:id="@+id/past_singular_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dip"
+        android:gravity="right"
+        android:text="@string/past_singular"
+        android:textAppearance="@style/Labels"
+      />
+
+      <TextView android:id="@+id/past_singular"
+        android:layout_width="wrap_content"
+        android:gravity="left"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dip"
+        android:textAppearance="@style/DialogLike"
+      />
+
+
+    </TableRow>
+
+
+    <TableRow android:id="@+id/row3"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:paddingBottom="5dip"
+    >
+
+      <TextView android:id="@+id/past_plural_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:paddingRight="5dip"
+        android:text="@string/past_plural"
+        android:textAppearance="@style/Labels"
+      />
+
+      <TextView android:id="@+id/past_plural"
+        android:layout_width="wrap_content"
+        android:gravity="left"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dip"
+        android:textAppearance="@style/DialogLike"
+      />
+
+
+    </TableRow>
+
+
+    <TableRow android:id="@+id/row4"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:paddingBottom="15dip"
+    >
+
+      <TextView android:id="@+id/past_participle_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:paddingRight="5dip"
+        android:text="@string/past_participle"
+        android:textAppearance="@style/Labels"
+      />
+
+      <TextView android:id="@+id/past_participle"
+        android:layout_width="wrap_content"
+        android:gravity="left"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dip"
+        android:textAppearance="@style/DialogLike"
+      />
+
+
+    </TableRow>
+
+
+    <ImageButton
+      android:id="@+id/close_info"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:paddingTop="2dp"
+      android:paddingBottom="2dp"
+      android:src="@android:drawable/ic_menu_revert"
+    />
+
+
+  </TableLayout>
+
+</LinearLayout >
+</ScrollView>

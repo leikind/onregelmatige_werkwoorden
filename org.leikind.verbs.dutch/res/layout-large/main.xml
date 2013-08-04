@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical">
+
+  <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10sp"
+      >
+
+    <EditText
+        android:id="@+id/value_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:lines="1"
+        android:inputType="text"
+        android:hint="@string/enter_verb_form"
+        android:imeOptions="actionGo"/>
+
+    <ImageButton
+        android:id="@+id/clear_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_input_delete"
+        />
+
+
+  </LinearLayout>
+
+  <ListView
+      android:id="@android:id/list"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      />
+
+
+  <LinearLayout android:id="@android:id/empty"
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+      >
+
+
+    <TextView
+        android:id="@+id/empty_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/empty"
+        android:layout_gravity="center_horizontal"
+        android:padding="10sp"
+        android:textStyle="normal"
+        android:typeface="normal"
+        android:textSize="22sp"
+        />
+    <Button
+        android:id="@+id/try_wiktionary"
+        android:text="@string/try_wiktionary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:layout_gravity="center_horizontal"
+        />
+
+
+  </LinearLayout>
+
+</LinearLayout>
+

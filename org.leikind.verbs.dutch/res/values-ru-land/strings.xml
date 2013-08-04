@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="past_singular">Имперфект (ед. число): </string>
+    <string name="past_plural">Имперфект: (мн. число): </string>
+</resources>
+

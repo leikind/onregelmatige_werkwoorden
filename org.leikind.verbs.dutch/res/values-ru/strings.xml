@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Onregelmatige Werkwoorden</string>
+    <string name="empty">Глагол не найден.\nЛибо такой глагол не существует,\nлибо это правильный глагол...</string>
+    <string name="about">О приложении</string>
+    <string name="enter_verb_form">Введите глагол</string>
+    <string name="details">Подробности</string>
+    <string name="about_message">Onregelmatige Werkwoorden позволяет быстро находить формы неправильных нидерландских глаголов.
+\n\nВерсия: %1$s
+\n\nРазработчик: Yuri Leikind
+\n\nEmail: yuri.leikind@gmail.com</string>
+    <string name="ok">Ok</string>
+    <string name="infinitive">Инфинитив:</string>
+    <string name="past_singular">Имперфект:\n(ед. ч.)</string>
+    <string name="past_plural">Имперфект:\n(мн. ч.)</string>
+    <string name="past_participle">Причастие: </string>
+    <string name="copied">скопировано</string>
+    <string name="Copy">Скопировать</string>
+    <string name="Copied">Скопировано</string>
+    <string name="copy_all_forms_to_clipboard">Скопировать</string>
+    <string name="wiktionary_lookup">Поиск в Wiktionary</string>
+    <string name="try_wiktionary">Попробовать поиск в  Wiktionary</string>
+</resources>
